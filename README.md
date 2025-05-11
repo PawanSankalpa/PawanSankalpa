@@ -1,7 +1,7 @@
 👋 Hi, I’m @PawanSankalpa
 👀 I’m passionate about Artificial Intelligence and web development
 
-🌱 I’m currently learning Python, Web3, authentication, security handling, Data Science, and Machine Learning
+🌱 I’m currently learning Python, Web3, Data Science, and Machine Learning
 
 💻 I’ve already learned:
     • Python (OOP, modules like pandas and turtle, APIs, web scraping with Beautiful Soup)
