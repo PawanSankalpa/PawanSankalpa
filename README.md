@@ -37,7 +37,7 @@ Your feedback is always appreciated.
 
 Thanks for stopping by! 😊
 
-# ***📫 Reach me at: pawansankalpanew123@gmail.com***
+# ***📫 Reach me at: [pawansankalpanew123@gmail.com](mailto:pawansankalpanew123@gmail.com)***
 
 😄 Pronouns: He/him
 
