@@ -2,9 +2,9 @@
 
 I'm passionate about **Artificial Intelligence** and **Computer Science**, currently leveling up my skills through hands-on projects and online learning.
 
-## 💼 **Founder & Lead Dev of my own web design agency**
-### 🛡️ *We build websites, do security audits, and create logos.*
-[ galegrid.com ](https://www.galegrid.com/)
+### 💼 **Founder & Lead Dev of my own web design agency**
+#### 🛡️ *We build websites, do security audits, and create logos.*
+#### [ www.galegrid.com ](https://www.galegrid.com/)
 
 ---
 
